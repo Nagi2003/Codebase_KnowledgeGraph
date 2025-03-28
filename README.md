@@ -10,7 +10,7 @@ source venv/bin/activate
 https://github.com/Nagi2003/Codebase_KnowledgeGraph.git
 
 ## add the tokens
-GITHUB_TOKEN="" /n
+GITHUB_TOKEN="",
 neo4j_password=""
 
 ## Install required packages
