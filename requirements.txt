@@ -1,3 +1,0 @@
-gitpython
-neo4j 
-tree-sitter
