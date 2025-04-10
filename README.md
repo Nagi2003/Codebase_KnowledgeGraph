@@ -20,6 +20,3 @@ pip install -r requirements.txt
     neo4j_user ="neo4j"
     neo4j_password =""
 
-### run the python file
-python task.py
-
